@@ -5,9 +5,9 @@ Hand Fetched:,T
 Comment:,None
 
 id/nickname,Composition,Structure,Processing,Material Comment,Name,Source,Property Parameters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
-MT-A,Ir12.4576 Rh12.4576 Ru5.0847 W35 Mo35,BCC+HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019212
-MT-B,Ir21.5932 Rh21.5932 Ru8.8136 W24 Mo24,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019213
-MT-C,Ir29.0678 Rh29.0678 Ru11.8644 W15 Mo15,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019214
-MT-D,Ir34.8814 Rh34.8814 Ru14.2373 W8 Mo8,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019215
-MT-E,Ir37.3729 Rh37.3729 Ru15.2542 W5 Mo5,FCC,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019216
-MT-Cprime,Ir29.0678 Rh29.0678 Ru11.8644 W15 Mo15,HCP,VAM+AA,annealed at 1273K for 200h,None,None,None,None,None,None,None,None,10.2320/matertrans.MT-M2019214
+MT-A,Ir12.4576 Rh12.4576 Ru5.0847 W35 Mo35,BCC+HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
+MT-B,Ir21.5932 Rh21.5932 Ru8.8136 W24 Mo24,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
+MT-C,Ir29.0678 Rh29.0678 Ru11.8644 W15 Mo15,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
+MT-D,Ir34.8814 Rh34.8814 Ru14.2373 W8 Mo8,HCP,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
+MT-E,Ir37.3729 Rh37.3729 Ru15.2542 W5 Mo5,FCC,VAM+AA,annealed at 2100K for 2h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
+MT-Cprime,Ir29.0678 Rh29.0678 Ru11.8644 W15 Mo15,HCP,VAM+AA,annealed at 1273K for 200h,None,None,None,None,None,None,None,T2,10.2320/matertrans.MT-M2019212
