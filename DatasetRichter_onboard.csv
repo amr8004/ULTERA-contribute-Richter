@@ -46,3 +46,11 @@ JM-A08,Co2 Mo0.8 Ni2 V W0.8,FCC+mu,AAM,Eutectic,compressive ductility,EXP,None,2
 JM-A10,Co2 Mo Ni2 V W,BCC+FCC+mu,AAM,hypereutectic primary BCC secondary FCC,compressive ductility,EXP,None,298.0,25.5015413253,None,%,F6,10.1016/j.matdes.2016.07.113
 JM-A15,Co2 Mo1.5 Ni2 V W1.5,BCC+FCC+mu,AAM,hypereutectic primary BCC secondary FCC,compressive ductility,EXP,None,298.0,21.5661156948,None,%,F6,10.1016/j.matdes.2016.07.113
 JM-A175,Co2 Mo1.75 Ni2 V W1.75,BCC+FCC+mu,AAM,hypereutectic primary BCC,compressive ductility,EXP,None,298.0,16.6861922899,None,%,F6,10.1016/j.matdes.2016.07.113
+msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,hardness,EXP,None,298.0,4099326000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,hardness,EXP,None,298.0,1981014000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,ultimate compressive strength,EXP,None,298.0,1250000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,ultimate compressive strength,EXP,None,298.0,670000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive yield stress,EXP,None,298.0,1020000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive yield stress,EXP,None,298.0,310000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive plastic strain,EXP,None,298.0,8.2,None,%,None,10.1016/j.msea.2015.10.071
+msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive plastic strain,EXP,None,298.0,20.0,None,%,None,10.1016/j.msea.2015.10.071
