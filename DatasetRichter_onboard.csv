@@ -54,3 +54,9 @@ msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive yiel
 msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive yield stress,EXP,None,298.0,310000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
 msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive plastic strain,EXP,None,298.0,8.2,None,%,None,10.1016/j.msea.2015.10.071
 msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive plastic strain,EXP,None,298.0,20.0,None,%,None,10.1016/j.msea.2015.10.071
+JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,hardness,EXP,None,298.0,4060098000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,hardness,EXP,None,298.0,4570062000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2000000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strength,EXP,None,298.0,2250000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strain,EXP,None,298.0,0.325,None,%,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strain,EXP,None,298.0,0.36,None,%,None,10.1016/j.jallcom.2016.01.153
