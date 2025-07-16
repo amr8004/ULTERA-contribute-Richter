@@ -58,5 +58,17 @@ JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,hardness,EXP,None,298.0,4060098000
 JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,hardness,EXP,None,298.0,4570062000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
 JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2000000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
 JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strength,EXP,None,298.0,2250000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
-JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strain,EXP,None,298.0,0.325,None,%,None,10.1016/j.jallcom.2016.01.153
-JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strain,EXP,None,298.0,0.36,None,%,None,10.1016/j.jallcom.2016.01.153
+JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strain,EXP,None,298.0,325.0,None,%,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strain,EXP,None,298.0,36.0,None,%,None,10.1016/j.jallcom.2016.01.153
+AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,hardness,EXP,None,298.0,3138240000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,hardness,EXP,None,298.0,4050291000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,hardness,EXP,None,298.0,5276166000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,hardness,EXP,None,298.0,6982584000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,minimum compressive strength,EXP,None,298.0,2710000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2017000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2306000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,ultimate compressive strength,EXP,None,298.0,2480000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
+AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,minimum comporessive strain,EXP,None,298.0,50.0,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,ultimate comporessive strain,EXP,None,298.0,38.5,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,ultimate comporessive strain,EXP,None,298.0,23.5,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,ultimate comporessive strain,EXP,None,298.0,12.5,None,%,None,10.1016/j.jallcom.2015.09.153
