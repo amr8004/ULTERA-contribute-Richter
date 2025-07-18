@@ -46,20 +46,20 @@ JM-A08,Co2 Mo0.8 Ni2 V W0.8,FCC+mu,AAM,Eutectic,compressive ductility,EXP,None,2
 JM-A10,Co2 Mo Ni2 V W,BCC+FCC+mu,AAM,hypereutectic primary BCC secondary FCC,compressive ductility,EXP,None,298.0,25.5015413253,None,%,F6,10.1016/j.matdes.2016.07.113
 JM-A15,Co2 Mo1.5 Ni2 V W1.5,BCC+FCC+mu,AAM,hypereutectic primary BCC secondary FCC,compressive ductility,EXP,None,298.0,21.5661156948,None,%,F6,10.1016/j.matdes.2016.07.113
 JM-A175,Co2 Mo1.75 Ni2 V W1.75,BCC+FCC+mu,AAM,hypereutectic primary BCC,compressive ductility,EXP,None,298.0,16.6861922899,None,%,F6,10.1016/j.matdes.2016.07.113
-msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,hardness,EXP,None,298.0,4099326000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,hardness,EXP,None,298.0,1981014000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,ultimate compressive strength,EXP,None,298.0,1250000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,ultimate compressive strength,EXP,None,298.0,670000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive yield stress,EXP,None,298.0,1020000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive yield stress,EXP,None,298.0,310000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
-msea-ac,Nb24 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive plastic strain,EXP,None,298.0,8.2,None,%,None,10.1016/j.msea.2015.10.071
-msea-an,Nb24 Sc25 Ti25 Zr26,HCP+BCC,AAM+A,HCP plate in BCC matrix, annealed at 1000C for 24hr,compressive plastic strain,EXP,None,298.0,20.0,None,%,None,10.1016/j.msea.2015.10.071
-JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,hardness,EXP,None,298.0,4060098000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
-JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,hardness,EXP,None,298.0,4570062000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
-JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2000000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
-JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strength,EXP,None,298.0,2250000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
-JAC-1,Co Cr Fe Ni Nb0.25,FCC,AAM,hypoeutectic,ultimate compressive strain,EXP,None,298.0,325.0,None,%,None,10.1016/j.jallcom.2016.01.153
-JAC-2,Co Cr Fe Ni Nb0.26,FCC+FCC,AAM+A,FCC precipitates in hypoeutectic, 750C 7 days,ultimate compressive strain,EXP,None,298.0,36.0,None,%,None,10.1016/j.jallcom.2016.01.153
+msea-ac,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,hardness,EXP,None,298.0,4099326000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM+A,HCP plate in BCC matrix; annealed at 1000C for 24hr,hardness,EXP,None,298.0,1981014000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,ultimate compressive strength,EXP,None,298.0,1250000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM+A,HCP plate in BCC matrix; annealed at 1000C for 24hr,ultimate compressive strength,EXP,None,298.0,670000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive yield stress,EXP,None,298.0,1020000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-an,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM+A,HCP plate in BCC matrix; annealed at 1000C for 24hr,compressive yield stress,EXP,None,298.0,310000000.0,None,Pa,None,10.1016/j.msea.2015.10.071
+msea-ac,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM,HCP plate in BCC matrix,compressive ductility,EXP,None,298.0,8.2,None,%,None,10.1016/j.msea.2015.10.071
+msea-an,Nb25 Sc25 Ti25 Zr25,HCP+BCC,AAM+A,HCP plate in BCC matrix; annealed at 1000C for 24hr,compressive ductility,EXP,None,298.0,28.2,None,%,None,10.1016/j.msea.2015.10.071
+JAC-1,Co Cr Fe Ni Nb0.25,FCC+laves,AAM,hypoeutectic,hardness,EXP,None,298.0,4060098000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.25,FCC+laves+FCC,AAM+A,FCC precipitates in hypoeutectic; anneal at 750C for 7 days,hardness,EXP,None,298.0,4570062000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-1,Co Cr Fe Ni Nb0.25,FCC+laves,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2000000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.25,FCC+laves+FCC,AAM+A,FCC precipitates in hypoeutectic; anneal at 750C for 7 days,ultimate compressive strength,EXP,None,298.0,2250000000.0,None,Pa,None,10.1016/j.jallcom.2016.01.153
+JAC-1,Co Cr Fe Ni Nb0.25,FCC+laves,AAM,hypoeutectic,compressive ductility,EXP,None,298.0,40.0,None,%,None,10.1016/j.jallcom.2016.01.153
+JAC-2,Co Cr Fe Ni Nb0.25,FCC+laves,AAM+A,FCC precipitates in hypoeutectic; anneal at 750C for 7 days,compressive ductility,EXP,None,298.0,36.0,None,%,None,10.1016/j.jallcom.2016.01.153
 AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,hardness,EXP,None,298.0,3138240000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
 AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,hardness,EXP,None,298.0,4050291000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
 AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,hardness,EXP,None,298.0,5276166000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
@@ -68,7 +68,7 @@ AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,minimum compressive stre
 AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2017000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
 AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,ultimate compressive strength,EXP,None,298.0,2306000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
 AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,ultimate compressive strength,EXP,None,298.0,2480000000.0,None,Pa,None,10.1016/j.jallcom.2015.09.153
-AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,minimum comporessive strain,EXP,None,298.0,50.0,None,%,None,10.1016/j.jallcom.2015.09.153
-AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,ultimate comporessive strain,EXP,None,298.0,38.5,None,%,None,10.1016/j.jallcom.2015.09.153
-AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,ultimate comporessive strain,EXP,None,298.0,23.5,None,%,None,10.1016/j.jallcom.2015.09.153
-AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,ultimate comporessive strain,EXP,None,298.0,12.5,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-10,Cr Fe Co Ni Nb0.1,FCC+laves,AAM,divorced eutectic,minimum compressive ductility,EXP,None,298.0,50.0,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-25,Cr Fe Co Ni Nb0.25,FCC+laves,AAM,hypoeutectic,compressive ductility,EXP,None,298.0,40.0,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-50,Cr Fe Co Ni Nb0.5,FCC+laves,AAM,hypoeutectic,compressive ductility,EXP,None,298.0,25.0,None,%,None,10.1016/j.jallcom.2015.09.153
+AC-80,Cr Fe Co Ni Nb0.8,FCC+laves,AAM,hyper-eutectic,compressive ductility,EXP,None,298.0,13.0,None,%,None,10.1016/j.jallcom.2015.09.153
